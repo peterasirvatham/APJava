@@ -1,8 +1,12 @@
 package edu.basic;
 
+import java.util.HashMap;
+
 import edu.demo.Cat;
 
 public class MyMain {
+	
+	
 	
 	String name;
 	int number;
@@ -12,7 +16,8 @@ public class MyMain {
 	
 	public static void main(String arg[]) {
 	 MyMain m1 = new MyMain();
-
+	 
+	 
 	}
 
 	public String getName() {
